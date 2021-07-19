@@ -76,6 +76,10 @@ aplicar a una imagen una función de conversión o una matriz de conversión:
 
   - Inversión de color.
 
+### Resolución
+
+* [Low Pass Filter](https://github.com/luvitale/SOA_HPC/blob/main/low_pass_filter.ipynb)
+
 ## Ejercicio 2
 
 El objetivo del ejercicio es investigar sobre las funcionalidades que brinda Python y Colab
@@ -108,3 +112,7 @@ ser solo un ejemplo de internet o idea compartida entre otros trabajos.
   (incluyendo el código si tomaron la idea de otro lado).
 
 * Que el ejercicio sea parametrizable y que tenga manejo de excepciones.
+
+### Resolución
+
+* [Image Caption Model](https://github.com/luvitale/SOA_HPC/blob/main/image_caption_model.ipynb)
