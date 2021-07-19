@@ -107,4 +107,4 @@ ser solo un ejemplo de internet o idea compartida entre otros trabajos.
   - Bibliografía: Toda referencia utilizada para confeccionar el ejercicio.
   (incluyendo el código si tomaron la idea de otro lado).
 
-5. Que el ejercicio sea parametrizable y que tenga manejo de excepciones.
+* Que el ejercicio sea parametrizable y que tenga manejo de excepciones.
